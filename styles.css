@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
 body {
 	background-color: #f8f8f8;
+	box-shadow: 10px;
 }
 
 .book-library {
@@ -13,4 +14,7 @@ body {
 
 .price {
 	background-color: #2ecc71;
+	border-radius: 5px;
+	color: white;
+	
 }
